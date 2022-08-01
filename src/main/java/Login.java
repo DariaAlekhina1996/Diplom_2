@@ -5,8 +5,6 @@ public class Login {
     public Login() {
     }
 
-    ;
-
     public Login(String email, String password) {
         this.email = email;
         this.password = password;
